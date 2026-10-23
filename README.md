@@ -1,13 +1,19 @@
 # OK Color Picker
 
-An interactive color picking and palette workspace for digital art.
+**A browser-based color study workspace for digital artists, created by [Study EZ](https://github.com/453465863).** Turn a visual reference into an interactive palette: sample colors from an image, arrange palette cards, and save your exploration in the browser.
 
-**Current release: Chinese-language interface.** An English version is planned for a future release.
+> **Current release:** Chinese interface. An English version is planned for a future release.
+
+## What you can do
+
+- Bring in a reference image and place or move color-sampling points.
+- Build and adjust interactive palette cards beside the image.
+- Save projects in the browser and continue on desktop or mobile.
 
 ## Try the live demo
 
 - **Open the invitation link:** [Launch OK Color Picker](https://studyez.pythonanywhere.com/#/invite/CwTZsb-krTD7gadyzjmRdeTKJ9iw5m3gKaAUeJnlYVQ)
-- **Promotional video:** [Watch the OK Color Picker PV](./assets/ok-color-picker-promo.mov)
+- **Promotional video:** [Watch the OK Color Picker preview](./assets/ok-color-picker-promo.mov)
 - **Or open the site entrance:** [studyez.pythonanywhere.com](https://studyez.pythonanywhere.com/) and enter the TOOL BOX access key `ookk` if prompted.
 
 These access details are intentionally public for the demo: anyone who can view this public repository can use them. The hosted demo includes the responsive desktop and mobile layouts.
