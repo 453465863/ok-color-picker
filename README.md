@@ -1,15 +1,19 @@
 # OK Color Picker
 
-An interactive color picking and palette workspace for digital art. The current release is the single-file version running on PythonAnywhere, including the responsive mobile layout.
+An interactive color picking and palette workspace for digital art.
 
-**Status:** source-available release. The source matches the current PythonAnywhere tool file byte for byte.
+**Current release: Chinese-language interface.** An English version is planned for a future release.
 
-## Preview
+## Try the live demo
 
-- **Online demo:** https://studyez.pythonanywhere.com/apps/ok-color-board/ (the TOOL BOX access gate may require an invitation)
-- **Source file:** [`index.html`](./index.html)
+- **Open the invitation link:** [Launch OK Color Picker](https://studyez.pythonanywhere.com/#/invite/CwTZsb-krTD7gadyzjmRdeTKJ9iw5m3gKaAUeJnlYVQ)
+- **Or open the site entrance:** [studyez.pythonanywhere.com](https://studyez.pythonanywhere.com/) and enter the TOOL BOX access key `ookk` if prompted.
 
-The page is self-contained and has no build step or third-party runtime dependency. Open `index.html` in a modern browser, or run a local static server:
+These access details are intentionally public for the demo: anyone who can view this public repository can use them. The hosted demo includes the responsive desktop and mobile layouts.
+
+## Source and local use
+
+The current source matches the PythonAnywhere tool file byte for byte. The page is self-contained and has no build step or third-party runtime dependency. Open [`index.html`](./index.html) in a modern browser, or run a local static server:
 
 ```bash
 python -m http.server 8000
@@ -20,7 +24,7 @@ Then visit `http://localhost:8000`.
 ## Data and backend behavior
 
 - Work in progress is stored in the browser's local IndexedDB database (`hue-studio-r1`). Personal color points and saved projects are not included in this repository.
-- Feedback submission and visit statistics call the TOOL BOX PythonAnywhere API. Those features work on the hosted demo when access is granted; they are not provided by GitHub Pages.
+- Feedback submission and visit statistics call the TOOL BOX PythonAnywhere API. Those features work on the hosted demo when access is granted; they are not provided by GitHub Pages or by opening the downloaded HTML locally.
 - No API key, server secret, user database, exported project, or private TOOL BOX server code is included here.
 
 ## License
@@ -32,3 +36,4 @@ This is **source-available**, not OSI-defined open-source software, because the 
 ## Attribution
 
 This is an independent project and is not affiliated with or endorsed by TourBox. The original page title and source comments mention TourBox when describing design inspiration; the source explicitly does not claim to reproduce TourBox's private algorithm.
+
