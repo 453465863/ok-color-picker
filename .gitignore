@@ -1,0 +1,23 @@
+# Local user projects and exports
+*.hueproj
+*.hueproj.json
+user-data/
+exports/
+
+# Credentials and server data
+.env
+.env.*
+!.env.example
+*.sqlite3
+*.sqlite3-*
+*.db
+*.pem
+*.key
+
+# Local development artifacts
+.DS_Store
+Thumbs.db
+*.log
+node_modules/
+.test-tmp/
+.test-deps/
