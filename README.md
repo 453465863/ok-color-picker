@@ -12,9 +12,9 @@
 
 ## Try the live demo
 
+- **Tutorial video:** [Watch the OK Color Picker tutorial](./assets/ColorPicker-tutorial-R7-vertical.mp4)
 - **Open the invitation link:** [Launch OK Color Picker](https://studyez.pythonanywhere.com/#/invite/CwTZsb-krTD7gadyzjmRdeTKJ9iw5m3gKaAUeJnlYVQ)
 - **Promotional video:** [Watch the OK Color Picker preview](./assets/ok-color-picker-promo.mov)
-- **Tutorial video:** [Watch the OK Color Picker R7 tutorial](./assets/ColorPicker-tutorial-R7-vertical.mp4)
 - **Or open the site entrance:** [studyez.pythonanywhere.com](https://studyez.pythonanywhere.com/) and enter the TOOL BOX access key `ookk` if prompted.
 
 These access details are intentionally public for the demo: anyone who can view this public repository can use them. The hosted demo includes the responsive desktop and mobile layouts.
